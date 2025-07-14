@@ -29,12 +29,6 @@ A modern, professional, and responsive **Expense Tracker** built with **React** 
 
 ---
 
-## 🖼️ Screenshots
-
-> _You can include screenshots here to show how the app looks in dark/light mode and analytics chart._
-
----
-
 ## 📁 Folder Structure
 
 ```
